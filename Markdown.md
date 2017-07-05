@@ -16,9 +16,9 @@ Markdown can be used to format headers, emphasis, and lists, and to add images a
 
 ## *Markdown Syntax*
 # This is a H1
-''' # This is a H1
+'''# This is a H1
 ## This is a H2
-''' ## This is a H2
+'''## This is a H2
 To headings you simply put hashtags in front of each line you want to be headings
 
 ## *Lists*
