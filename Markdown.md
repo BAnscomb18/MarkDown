@@ -11,3 +11,5 @@ and characters you're already familiar with such as;
 
 ## *Why Markdown?*
 Markdown can be used to format headers, emphasis, and lists, and to add images and links. The concept is to produce files that are as simple to read as plain text, but that have everything you require to create HTML to distribute on the web. This brings us to the next part of Markdown. Markdown is also a text processor, whereby it takes Markdown text input and gives out correct HTML output.
+
+For a full description of the markdown syntax, visit [this page](http://daringfireball.net/projects/markdown/syntax)
