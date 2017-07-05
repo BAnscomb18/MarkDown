@@ -13,10 +13,12 @@ and characters you're already familiar with such as;
 Markdown can be used to format headers, emphasis, and lists, and to add images and links. The concept is to produce files that are as simple to read as plain text, but that have everything you require to create HTML to distribute on the web. This brings us to the next part of Markdown. Markdown is also a text processor, whereby it takes Markdown text input and gives out correct HTML output.
 
 ## *Markdown Syntax*
+<pre><code>
 # This is a H1
 ''' # This is a H1
 ## This is a H2
 ''' ## This is a H2
+</code></pre>
 To headings you simply put hashtags in front of each line you want to be headings
 
 # *Lists*
