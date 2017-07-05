@@ -1,4 +1,4 @@
-# **Markdown Instruction Document**
+## **Markdown Instruction Document**
 
 ## *What is Markdown?*
 Markdown is a simple form of text that non programmers can write that is easy to read and can be converted directly to HTML. 
@@ -15,8 +15,9 @@ Markdown can be used to format headers, emphasis, and lists, and to add images a
 ## *Markdown Syntax*
 # This is a H1
 ''' # This is a H1
-# This is a H2
-''' # This is a H2
+## This is a H2
+''' ## This is a H2
+To headings you simply put hashtags in front of each line you want to be headings
 
 For a full description of the markdown syntax, visit [this page](http://daringfireball.net/projects/markdown/syntax)
 ![](http://markdown-here.com/img/logo-2015/austin.png)
