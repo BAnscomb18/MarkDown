@@ -1,0 +1,41 @@
+##How do you use it?
+
+_Text Formatting_
+
+This is how to do **bold** text: \**bold**
+
+This is how to do *italic* text: \*italic*
+
+You can also do __bold__ like this: \__bold__
+
+You can also do _italic_ like this: \_italic_
+
+> This is how to make a blockquote: \>
+
+## Links
+
+For a full description of the markdown syntax, visit [this page](http://daringfireball.net/projects/markdown/syntax)
+
+To embed a link like shown above use as follows: \[link name] (link).
+
+
+## Lists
+
+Unordered lists:
+
+* item 1
++ item 2
+- item 3
+
+To make a list like the one shown above use as follows: 
+
+\*item 1
+
+\+item 2
+
+\-item 3
+
+## Code
+
+    var x = new Foo();
+    x.Bar();
