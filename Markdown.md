@@ -1,4 +1,4 @@
-# *Markdown Instruction Document*
+# **Markdown Instruction Document**
 
 ## *What is Markdown?*
 Markdown is a simple form of text that non programmers can write that is easy to read and can be converted directly to HTML. 
