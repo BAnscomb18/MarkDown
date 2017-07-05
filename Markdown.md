@@ -1,3 +1,4 @@
+
 ## **Markdown Instruction Document**
 
 ## *What is Markdown?*
@@ -20,6 +21,7 @@ This is how you create heading 1 and 2 using Markdown:
 ## This is Heading 2
 ```
 And this is the rendered result:
+
 # This is a Heading 1
 ## This is a Heading 2
 Escentically to create headings you simply put the coresponding number of hashs for the level of the heading in front of each line you want to be a heading. However there is an alternative method:
@@ -59,7 +61,7 @@ An example of a list is:
 
 A block quote is a quotation in a text document that is away from the main text as a paragraph. Each time you use > you are writing a paragraph.
 
-> #### Blockquoted header
+> # Blockquoted header
 >
 > This is block quoted text.
 >
@@ -68,7 +70,7 @@ A block quote is a quotation in a text document that is away from the main text 
 
 Here is an example of what it would look like:
 ```
-> ## Blockquoted header
+> # Blockquoted header
 >
 > This is block quoted text.
 >
