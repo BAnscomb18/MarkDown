@@ -13,17 +13,30 @@ and characters you're already familiar with such as;
 Markdown can be used to format headers, emphasis, and lists, and to add images and links. The concept is to produce files that are as simple to read as plain text, but that have everything you require to create HTML to distribute on the web. This brings us to the next part of Markdown. Markdown is also a text processor, whereby it takes Markdown text input and gives out correct HTML output.
 
 ## *Markdown Syntax*
-# This is a H1
-<pre><code>
-# This is a H1
-</code></pre>
-## This is a H2
-<code><pre>
-## This is a H2
-</code></pre>
-To headings you simply put hashtags in front of each line you want to be headings
+### Headings
+This is how you create heading 1 and 2 using Markdown:
+```
+# This is Heading 1
+## This is Heading 2
+```
+And this is the rendered result:
+# This is a Heading 1
+## This is a Heading 2
+Escentically to create headings you simply put the coresponding number of hashs for the level of the heading in front of each line you want to be a heading. However there is an alternative method:
+```
+This is also Heading 1
+======================
+This is also Heading 2
+----------------------
+```
+And this renders the results:
+This is also Heading 1
+======================
+This is also Heading 2
+----------------------
+For this second method you replace the hashs with equals symbols for heading 1 or dashs for heading 2 which aesthetically act as an underliner which promotes the text above to headings.
 
-# *Lists*
+### *Lists*
 You can make a list by using asterisks, minus' or plus character, however the only thing to look out for it to ensure that you use the same character consistently within the list. You have to enter the space bar after each character. To create an ordered list you begin with the number and then use a full stop or a bracket  ')' and a space. If you didn't want to start a list then you can backslash to escape. 
 ``` 
 * - Asterisk character 
@@ -42,11 +55,11 @@ An example of a list is:
 5. Grape
 ```
 
-# *Block quotes*
+### *Block quotes*
 
 A block quote is a quotation in a text document that is away from the main text as a paragraph. Each time you use > you are writing a paragraph.
 
-> ## Blockquoted header
+> #### Blockquoted header
 >
 > This is block quoted text.
 >
