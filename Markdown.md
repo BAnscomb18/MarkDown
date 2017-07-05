@@ -25,6 +25,22 @@ To headings you simply put hashtags in front of each line you want to be heading
 
 # *Lists*
 You can make a list by using asterisks, minus' or plus character, however the only thing to look out for it to ensure that you use the same character consistently within the list. You have to enter the space bar after each character. To create an ordered list you begin with the number and then use a full stop or a bracket  ')' and a space. If you didn't want to start a list then you can backslash to escape. 
+``` 
+* - Asterisk character 
++ - Plus character 
+- - Minus character 
+1. - Number with full stop 
+) - Bracket and space 
+\ - Backslash to escape 
+```
+An example of a list is: 
+```
+1. Orange 
+2. Apple
+3. Strawberry 
+4. Banana 
+5. Grape
+```
 
 # *Block quotes*
 
