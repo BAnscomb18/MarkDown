@@ -75,3 +75,26 @@ Here is an example of what it would look like:
 > Here is the more quoted text.
 > 
 ```
+#Code block
+
+~~~~
+This is a 
+piece of code 
+in a block
+~~~~
+
+```
+This too
+```
+
+To do the above: 
+
+\~~~~
+This is a 
+piece of code 
+in a block
+\~~~~
+
+\```
+This too
+\```
