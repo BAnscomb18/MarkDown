@@ -24,7 +24,8 @@ To headings you simply put hashtags in front of each line you want to be heading
 # *Lists*
 You can make a list by using asterisks, minus' or plus character, however the only thing to look out for it to ensure that you use the same character consistently within the list. You have to enter the space bar after each character. To create an ordered list you begin with the number and then use a full stop or a bracket  ')' and a space. If you didn't want to start a list then you can backslash to escape. 
 
-#Block quotes
+# Block quotes
+
 A block quote is a quotation in a text document that is away from the main text as a paragraph. Each time you use > you are writing a paragraph.
 
 > ## Blockquoted header
