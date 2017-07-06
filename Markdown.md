@@ -21,7 +21,7 @@ This is how you create heading 1 and 2 using Markdown:
 And this is the rendered result:
 # This is a Heading 1
 ## This is a Heading 2
-Escentically to create headings you simply put the coresponding number of hashs for the level of the heading in front of each line you want to be a heading. However there is an alternative method:
+Essentically to create headings you simply put the coresponding number of hashs for the level of the heading in front of each line you want to be a heading. However there is an alternative method:
 ```
 This is also Heading 1
 ======================
