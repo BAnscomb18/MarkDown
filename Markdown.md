@@ -98,3 +98,20 @@ in a block
 \```
 This too
 \```
+To show code, you can also use return and indent(four spaces):
+
+	It will display every character typed in it, like this: !><@
+##Images##
+To show an image you use:
+
+	![](file/path)
+>An example of this would be:
+![](http://markdown-here.com/img/logo-2015/austin.png)
+
+	![](http://markdown-here.com/img/logo-2015/austin.png)
+
+##Emphasis##
+There are two types of emphasis, __bold__ and _italics_
+
+	To use italics, surround the words with 1 _underscore_ or *asterisk*
+	To use bold, surround the words with 2 __underscores__ or **asterisks**
