@@ -115,3 +115,30 @@ There are two types of emphasis, __bold__ and _italics_
 
 	To use italics, surround the words with 1 _underscore_ or *asterisk*
 	To use bold, surround the words with 2 __underscores__ or **asterisks**
+	
+##Horizontal Rules##
+You can create a horizontal rule (<hr />) by placing 3 or more phens, asterisks, or underscores on a single line. You can also place spaces between them.
+
+Markdown:
+
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
+Output:
+
+<hr />
+
+<hr />
+
+<hr />
+
+<hr />
+
+<hr />
+
